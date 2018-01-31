@@ -1,6 +1,6 @@
 # hodea - Highly Optimized Deeply Embedded Auxiliaries
 
-![logo](hodea_logo.png)
+![logo](logo/hodea_logo.png)
 
 ---
 
