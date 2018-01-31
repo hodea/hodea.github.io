@@ -21,6 +21,12 @@ It comprises:
 - [hodea-review-minder](https://hodea.github.io/hodea-review-minder),
   Python 3 scripts assisting code reviews
 
+## hodea-lib Wiki
+
+The [Wiki](https://github.com/hodea/hodea-lib/wiki) provides some
+information related to hodea-lib, in particular the development tools
+used for the library.
+
 ## Source Code
 
 The source code of this projects is hosted on [github](https://github.com/hodea).
