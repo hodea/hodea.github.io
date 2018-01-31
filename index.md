@@ -6,9 +6,9 @@
 
 ## About HODEA
 
-HODEA is the acronym for **H**ighly **O**ptimized **D**eeply
+HODEA stands for **H**ighly **O**ptimized **D**eeply
 **E**mbedded **A**uxiliaries.
-It the umbrella for source code libraries and template projects
+It is the umbrella for source code libraries and template projects
 for deeply embedded systems, and related tools supporting the engineering
 process in this field of application.
 
